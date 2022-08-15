@@ -1,0 +1,15 @@
+#jsstyle{
+    border-radius: 20px;
+    display: inline-block;
+    background: gray;
+    color: #fff;
+    padding: 8px 30px;
+    margin: 30px 0;
+    border-radius: 30px;
+    margin-left: 200px;
+}
+
+#jsstyle:hover{
+    background-color: black;
+    color: azure;
+}
